@@ -1,0 +1,19 @@
+{
+  "title": "4",
+  "description": "Memes",
+  "artist": "安斎",
+  "author": "安斎",
+  "cover": "https://preview.redd.it/vry2pgyeiek71.png?width=640&crop=smart&auto=webp&s=48a31efc38e08a928cea856016a3cf0a4d5eab70",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1630293694",
+      "groups": {
+        "RingHeilgh": [
+          "https://drive.google.com/uc?export=view&id=1R0RSb1l1S5Ts_imUMawoGRv0u3qeHsIT"
+        ]
+      }
+    }
+  }
+}
