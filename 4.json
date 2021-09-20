@@ -20,6 +20,27 @@
       "groups": {
         "RingHeilgh": "/proxy/api/imgur/chapter/CGj9blC/"
       }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1632176591",
+      "groups": {
+        "RingHeilgh": [
+          "https://i.redd.it/s256rjydqpo71.png",
+          "https://i.redd.it/0u85r0aeqpo71.png",
+          "https://i.redd.it/xptdycmeqpo71.png",
+          "https://i.redd.it/m0bsrareqpo71.png",
+          "https://i.redd.it/utgb27xeqpo71.png",
+          "https://i.redd.it/ymdzdh2fqpo71.png",
+          "https://i.redd.it/xi74t77fqpo71.png",
+          "https://i.redd.it/sm0h81bfqpo71.png",
+          "https://i.redd.it/vom3hjgfqpo71.png",
+          "https://i.redd.it/tb9cr2mfqpo71.png",
+          "https://i.redd.it/a5djlprfqpo71.png",
+          "https://i.redd.it/uu33k3wfqpo71.png"
+        ]
+      }
     }
   }
 }
