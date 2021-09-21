@@ -10,13 +10,7 @@
       "volume": "1",
       "last_updated": "1632202605",
       "groups": {
-        "RingHeilgh": [
-          "https://i.redd.it/i3yxwtpnlso71.png",
-          "https://i.redd.it/ifnrhn2olso71.png",
-          "https://i.redd.it/6i0e507olso71.png",
-          "https://i.redd.it/yhb5ribolso71.png",
-          "https://i.redd.it/9lt4g4folso71.png"
-        ]
+        "RingHeilgh": "/proxy/api/imgur/chapter/tEmWrFL/"
       }
     }
   }
